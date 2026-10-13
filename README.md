@@ -1,107 +1,106 @@
 <div align="center">
 
-<img src="./assets/hero.svg" width="100%" alt="Animated banner: Efe Ozan Akay — software, AI, design and media." />
+<img src="./assets/hero.svg" width="100%" alt="Japanese-inspired animated editorial banner for Efe Ozan Akay — code, AI, design, film and sound." />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3200&pause=1200&color=71EACD&center=true&vCenter=true&width=730&height=48&lines=Turning+ideas+into+things+that+exist.;Building+with+code%2C+AI+and+imagination.;From+working+systems+to+visual+stories.;Exploring+what+technology+makes+possible." alt="Animated messages about building across software, AI and creative work." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3300&pause=1300&color=D85A43&center=true&vCenter=true&width=780&height=50&lines=Ideas+into+things+that+exist.;Code+%E2%80%A2+AI+%E2%80%A2+Design+%E2%80%A2+Film+%E2%80%A2+Sound;Building+across+disciplines.;Always+exploring.+Always+making." alt="Animated lines about creating across disciplines." />
 
-**Digital builder · Creative technologist · Curious by default**
+**DIGITAL BUILDER &nbsp; / &nbsp; CREATIVE TECHNOLOGIST**
 
-Software &nbsp;·&nbsp; AI &nbsp;·&nbsp; Automation &nbsp;·&nbsp; Design &nbsp;·&nbsp; Film &nbsp;·&nbsp; Sound
+<sub>ソフトウェア　·　人工知能　·　デザイン　·　映像　·　音楽</sub>
 
-[![Explore projects](https://img.shields.io/badge/EXPLORE_PROJECTS-1B263B?style=flat-square&logo=github&logoColor=71EACD)](https://github.com/efeozanakay?tab=repositories)
-[![Get in touch](https://img.shields.io/badge/GET_IN_TOUCH-1B263B?style=flat-square&logo=gmail&logoColor=71EACD)](mailto:efe.ozan.akay@gmail.com)
-[![Creative work](https://img.shields.io/badge/CREATIVE_STUDIO-1B263B?style=flat-square&logo=react&logoColor=71EACD)](https://github.com/efeozanakay/ozzy-studio)
+[![Explore projects](https://img.shields.io/badge/EXPLORE_PROJECTS-17171C?style=flat-square&logo=github&logoColor=E0DDD6&labelColor=C9513F)](https://github.com/efeozanakay?tab=repositories)
+[![Creative studio](https://img.shields.io/badge/CREATIVE_STUDIO-17171C?style=flat-square&logo=github&logoColor=E0DDD6&labelColor=C9513F)](https://github.com/efeozanakay/ozzy-studio)
 
 </div>
 
 ---
 
-### `01 / THE BIG PICTURE`
+### `00` — はじめに / ABOUT
 
-Hey, I'm Efe. **I build things across disciplines.**
+I’m Efe. **I create across disciplines, not inside a single box.**
 
-Some projects begin with a workflow that needs fixing. Others start with a visual idea, a piece of music, a product concept or a question about what new technology can do.
+Some things start with a problem worth solving. Others begin with an image, an idea for a product, a sound, a story, or a question about what technology makes possible.
 
-I work at the intersection of **software, artificial intelligence, automation, digital experiences and creative production**. I enjoy moving between the technical and the visual — from a working application to a film sequence, from data and research to an idea worth testing.
+My work moves between **software engineering, AI, automation, digital products, visual design, filmmaking, sound, and creative research**. I’m as interested in how something *works* as in how it *looks, feels, and communicates*.
 
-**Different mediums. Same approach: explore, make, refine and deliver.**
+> **From concept to craft. From experiments to experiences.**
 
-### `02 / WHAT I DO`
+### `01` — 領域 / WHAT I EXPLORE
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>⌘ Software & Digital Products</h3>
-      <p>Web applications, internal tools, interfaces, dashboards, prototypes and product workflows — from concept to working software.</p>
+      <b>01 / SOFTWARE & PRODUCTS</b>
+      <p>Web applications, internal tools, digital products, interactive experiences, prototypes and systems that solve real problems.</p>
     </td>
     <td width="50%" valign="top">
-      <h3>◈ AI & Intelligent Workflows</h3>
-      <p>Experimenting with AI-assisted systems, research-to-output pipelines, generative tools and practical ways to connect models with real tasks.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>↗ Automation & Systems</h3>
-      <p>Making repetitive processes easier: documents, spreadsheets, data transformation, communications, integrations and operational workflows.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>✦ Design & Digital Experiences</h3>
-      <p>Websites, visual direction, interaction, brand experiences and the space where technology needs to look and feel right.</p>
+      <b>02 / ARTIFICIAL INTELLIGENCE</b>
+      <p>AI workflows, generative models, creative pipelines, research, experimentation and intelligent tools.</p>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <h3>▣ Film, Motion & Sound</h3>
-      <p>AI-assisted filmmaking, animation, cinematic experiments, video editing, soundscapes and music-driven visual storytelling.</p>
+    <td valign="top">
+      <b>03 / AUTOMATION & SYSTEMS</b>
+      <p>Data processing, integrations, documents, spreadsheets, operational workflows and removing repetitive work.</p>
     </td>
-    <td width="50%" valign="top">
-      <h3>◎ Brands & Creative Strategy</h3>
-      <p>Campaign ideas, advertising concepts, creative research, product storytelling and experiments in marketing engineering.</p>
+    <td valign="top">
+      <b>04 / DESIGN & DIGITAL EXPERIENCES</b>
+      <p>Visual identity, interfaces, website experiences, interaction, art direction and concept development.</p>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <b>05 / FILM, MOTION & SOUND</b>
+      <p>Animation, generative video, cinematic storytelling, editing, sound design and atmospheric music.</p>
+    </td>
+    <td valign="top">
+      <b>06 / BRANDS & CREATIVE STRATEGY</b>
+      <p>Advertising concepts, product storytelling, creative research, marketing experiments and ideas that become finished work.</p>
     </td>
   </tr>
 </table>
 
-### `03 / THINGS I'VE BEEN BUILDING`
+### `02` — 制作 / SELECTED WORK
 
-Not everything I work on is a traditional software project — but these repositories show a few sides of the work.
+<sub>Some of the things I make live in repositories. Others live in timelines, frames, prototypes and experiments.</sub>
 
-**Products, tools & automation**
+**SYSTEMS / APPLICATIONS**
 
-- [**FlightChecker**](https://github.com/efeozanakay/Flight-Checker) — a flight schedule validation workflow built around live data.
-- [**Pickup Sender**](https://github.com/efeozanakay/Pickuptime-sender) — PDF processing and email distribution automation.
-- [**Reservation Data Transformation**](https://github.com/efeozanakay/reservation-data-transformation-tool) — rule-based data validation and spreadsheet transformation.
-- [**ClientFinder**](https://github.com/efeozanakay/client-finder) — B2B lead discovery, enrichment and review workflows.
+- [**FlightChecker**](https://github.com/efeozanakay/Flight-Checker) — flight schedule validation and discrepancy detection using live data.
+- [**Pickup Sender**](https://github.com/efeozanakay/Pickuptime-sender) — turning multi-hotel PDF workflows into automated document and email delivery.
+- [**Reservation Data Transformation**](https://github.com/efeozanakay/reservation-data-transformation-tool) — structured, testable spreadsheet validation and transformation.
+- [**ClientFinder**](https://github.com/efeozanakay/client-finder) — research-driven B2B lead discovery and review workflows.
 
-**Websites, interfaces & digital experiences**
+**PRODUCT / WEB / EXPERIENCE**
 
-- [**SWT ELITE Website**](https://github.com/efeozanakay/swt-elite-website) — a real-world corporate web platform and evolving digital experience.
-- [**Ozzy Studio**](https://github.com/efeozanakay/ozzy-studio) — a creative studio's digital home, connecting filmmaking, design and the web.
+- [**SWT ELITE Website**](https://github.com/efeozanakay/swt-elite-website) — a real-world corporate web experience and evolving digital product.
+- [**Ozzy Studio**](https://github.com/efeozanakay/ozzy-studio) — a creative studio experience bringing brands, artists, film and technology together.
 
-**AI, creative research & experiments**
+**AI / RESEARCH / EXPERIMENTATION**
 
-- [**OZZY Creative Intelligence**](https://github.com/efeozanakay/ozzy-creative-intelligence) — exploring how market research and audience insights become better creative briefs and ad concepts.
-- **Beyond the repos** — animated shorts, generative video experiments, cinematic concepts, music and sound design, and visual work for brands and artists.
+- [**OZZY Creative Intelligence**](https://github.com/efeozanakay/ozzy-creative-intelligence) — exploring research, audience insights, creative angles and advertising concepts.
+- **Beyond the code** — animated short films, cinematic studies, generative visual work, music and sound experiments, creative direction and emerging workflows.
 
-### `04 / HOW I WORK`
+<sub>More in the [repository archive ↗](https://github.com/efeozanakay?tab=repositories)</sub>
 
-`IDEA` → `RESEARCH` → `PROTOTYPE` → `BUILD / CREATE` → `ITERATE` → `SHIP`
+### `03` — 道具 / TOOLKIT
 
-I like learning by making. Sometimes that means writing code; sometimes it means shaping a visual, testing an AI workflow or rethinking the problem entirely.
+**BUILD** &nbsp; `Python` · `JavaScript` · `TypeScript` · `React` · `Next.js` · `FastAPI` · `Streamlit` · `Tailwind CSS`
 
-### `05 / TOOLS & TERRITORIES`
+**CONNECT** &nbsp; APIs · Integrations · Data workflows · Automation · Cloudflare · GitHub
 
-**Software:** `Python` · `JavaScript` · `TypeScript` · `React` · `Next.js` · `FastAPI` · `Streamlit` · `Tailwind CSS`
+**CREATE** &nbsp; Generative image & video · Motion design · Editing · Visual storytelling · Music & sound · Creative direction
 
-**Systems:** APIs · Data workflows · Integrations · Automation · GitHub · Cloudflare
-
-**Creative:** Generative image & video · Motion & editing · Creative direction · Music & sound · AI-assisted production
-
----
+### `04` — 方法 / THE PROCESS
 
 <div align="center">
 
-*Not limited to one industry, one medium or one way of building.*
+`OBSERVE` &nbsp; → &nbsp; `EXPLORE` &nbsp; → &nbsp; `PROTOTYPE` &nbsp; → &nbsp; `BUILD` &nbsp; → &nbsp; `REFINE`
 
-<sub>Based in Antalya, Türkiye · Always exploring the next interesting problem.</sub>
+**分野を越えて、つくる。**
+
+*Create beyond disciplines.*
+
+<sub>Based in Antalya, Türkiye · Curious about the next interesting thing.</sub>
 
 </div>
