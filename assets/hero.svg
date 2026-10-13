@@ -1,56 +1,59 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="300" viewBox="0 0 1000 300" role="img" aria-labelledby="title description">
-<title id="title">Efe Ozan Akay — building across software, AI, design and media</title>
-<desc id="description">Animated dark interface with rotating orbital rings, subtle scan lines and a pulsing signal.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" role="img" aria-labelledby="title desc">
+<title id="title">Efe Ozan Akay — Code, AI, Design, Film and Sound</title>
+<desc id="desc">Japanese-inspired nocturnal editorial banner, animated vermilion sun, rotating technical markings, subtle scan line and glowing accents.</desc>
 <defs>
-  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-    <stop offset="0" stop-color="#07101c"/><stop offset=".55" stop-color="#0b1424"/><stop offset="1" stop-color="#101326"/>
-  </linearGradient>
-  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#78f7d4"/><stop offset="1" stop-color="#829dff"/></linearGradient>
-  <radialGradient id="halo"><stop offset="0" stop-color="#68e9d5" stop-opacity=".15"/><stop offset="1" stop-color="#68e9d5" stop-opacity="0"/></radialGradient>
-  <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#94b8d2" stroke-opacity=".075"/></pattern>
-  <clipPath id="frame"><rect x="1" y="1" width="998" height="298" rx="21"/></clipPath>
+  <linearGradient id="night" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#090B10"/><stop offset="65%" stop-color="#12131A"/><stop offset="100%" stop-color="#21191D"/></linearGradient>
+  <linearGradient id="sun" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#F17B56"/><stop offset="75%" stop-color="#C83B31"/><stop offset="100%" stop-color="#942A2B"/></linearGradient>
+  <linearGradient id="trace" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color="#D95A42" stop-opacity="0"/><stop offset="45%" stop-color="#D95A42" stop-opacity=".85"/><stop offset="100%" stop-color="#D95A42" stop-opacity="0"/></linearGradient>
+  <pattern id="mesh" width="39" height="39" patternUnits="userSpaceOnUse"><path d="M39 0H0V39" fill="none" stroke="#C9C5BA" stroke-opacity=".045" stroke-width="1"/></pattern>
+  <clipPath id="boundary"><rect width="1200" height="380" rx="12"/></clipPath>
+  <clipPath id="sunmask"><circle cx="984" cy="181" r="116"/></clipPath>
+  <filter id="glow"><feGaussianBlur stdDeviation="18"/></filter>
 </defs>
-<g clip-path="url(#frame)">
-  <rect width="1000" height="300" fill="url(#bg)"/><rect width="1000" height="300" fill="url(#grid)"/>
-  <circle cx="802" cy="152" r="190" fill="url(#halo)"/>
-  <path d="M0 258H645L708 198M0 274H684L756 204M674 0L735 65" stroke="#78f7d4" stroke-opacity=".13" fill="none" stroke-width="1.4"/>
-  <path d="M0 45H440M0 50H300" stroke="#9ab2ff" stroke-opacity=".12" fill="none"/>
-  <rect x="48" y="44" width="31" height="26" rx="4" fill="#78f7d4" fill-opacity=".1" stroke="#78f7d4" stroke-opacity=".65"/>
-  <text x="54" y="62" font-size="14" font-weight="700" font-family="Arial, sans-serif" fill="#a5ffe7">EA</text>
-  <text x="92" y="61" font-family="monospace" font-size="12" letter-spacing="2.0" fill="#91a8c4">BUILDING BEYOND ONE DISCIPLINE</text>
-  <rect x="49" y="93" width="36" height="3" rx="1.5" fill="url(#accent)"/>
-  <text x="49" y="147" font-family="Arial, Helvetica, sans-serif" font-size="51" font-weight="800" letter-spacing="1" fill="#f1f6ff">EFE OZAN AKAY</text>
-  <text x="51" y="186" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="500" fill="#80ead2">SOFTWARE  /  AI  /  DESIGN  /  MEDIA</text>
-  <text x="51" y="219" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#afbdd1">From the first idea to the final experience.</text>
-  <line x1="50" y1="246" x2="579" y2="246" stroke="#40566c"/>
-  <circle cx="58" cy="267" r="4" fill="#72f2ce"><animate attributeName="opacity" values="1;.35;1" dur="2.8s" repeatCount="indefinite"/></circle>
-  <text x="73" y="272" font-family="monospace" font-size="11.5" fill="#a0aec4" letter-spacing=".7">ANTALYA, TR</text>
-  <text x="295" y="272" font-family="monospace" font-size="11.5" fill="#a0aec4" letter-spacing=".7">IMAGINE  /  BUILD  /  EVOLVE</text>
-  <g opacity=".75"><path d="M630 24V276M973 24V276" stroke="#7792ac" stroke-opacity=".24"/><path d="M646 23H972M646 277H972" stroke="#7792ac" stroke-opacity=".15"/></g>
-  <circle cx="808" cy="149" r="113" fill="none" stroke="#7091a7" stroke-opacity=".18"/>
-  <circle cx="808" cy="149" r="92" fill="none" stroke="#78f7d4" stroke-opacity=".27" stroke-dasharray="2 9"/>
-  <circle cx="808" cy="149" r="69" fill="none" stroke="#90a5ff" stroke-opacity=".46" stroke-width="1.1"/>
-  <circle cx="808" cy="149" r="47" fill="none" stroke="#78f7d4" stroke-opacity=".21"/>
-  <g><animateTransform attributeName="transform" type="rotate" from="0 808 149" to="360 808 149" dur="22s" repeatCount="indefinite"/>
-    <path d="M808 57 A92 92 0 0 1 893 115" fill="none" stroke="#72f2ce" stroke-width="3.5" stroke-linecap="round"/>
-    <circle cx="808" cy="57" r="5" fill="#72f2ce"/><circle cx="885" cy="199" r="3" fill="#a69eff"/>
-  </g>
-  <g><animateTransform attributeName="transform" type="rotate" from="0 808 149" to="-360 808 149" dur="30s" repeatCount="indefinite"/>
-    <path d="M808 80 A69 69 0 0 0 748 115" fill="none" stroke="#a29aff" stroke-width="3" stroke-linecap="round"/><circle cx="808" cy="80" r="3" fill="#a29aff"/>
-  </g>
-  <path d="M808 110V188M769 149H847" stroke="#a3ffe6" stroke-opacity=".3"/>
-  <rect x="785" y="126" width="46" height="46" rx="11" fill="#132d3a" stroke="#73f0cf" stroke-opacity=".7" stroke-width="1.4"/>
-  <path d="M797 148L805 157L820 141" stroke="#8bffdb" fill="none" stroke-width="2.7" stroke-linecap="round" stroke-linejoin="round"/>
-  <circle cx="808" cy="149" r="31" fill="none" stroke="#78f7d4" stroke-opacity=".1">
-    <animate attributeName="r" values="25;42;25" dur="4s" repeatCount="indefinite"/>
-    <animate attributeName="stroke-opacity" values=".25;0;.25" dur="4s" repeatCount="indefinite"/>
+<g clip-path="url(#boundary)">
+  <rect width="1200" height="380" fill="url(#night)"/>
+  <rect width="1200" height="380" fill="url(#mesh)"/>
+  <path d="M0 59H1200M0 325H1200" stroke="#DCD7CD" stroke-opacity=".12"/>
+  <path d="M50 0V380M1150 0V380" stroke="#DCD7CD" stroke-opacity=".09"/>
+  <path d="M68 43H155" stroke="#E56447" stroke-width="2"/>
+  <rect x="68" y="62" width="30" height="28" rx="1" fill="#CE4C37"/>
+  <text x="74" y="81" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" fill="#FBF0E4">EA</text>
+  <text x="111" y="80" font-family="monospace" font-size="13" letter-spacing="2" fill="#B9B4AE">INDEPENDENT / INTERDISCIPLINARY</text>
+  <text x="68" y="176" font-family="Arial, Helvetica, sans-serif" font-size="72" letter-spacing="-2" font-weight="800" fill="#F3EEE5">EFE OZAN</text>
+  <text x="68" y="248" font-family="Arial, Helvetica, sans-serif" font-size="72" letter-spacing="-2" font-weight="800" fill="#F3EEE5">AKAY<tspan fill="#D85A43">.</tspan></text>
+  <text x="71" y="286" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="600" letter-spacing="2" fill="#E46C52">CODE / AI / DESIGN / FILM / SOUND</text>
+  <text x="70" y="309" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#AFAAA4">From concept to craft. From experiments to experiences.</text>
+  <text x="70" y="354" font-family="monospace" font-size="12" letter-spacing="2" fill="#A5A09C">ANTALYA · TR</text>
+  <text x="354" y="354" font-family="monospace" font-size="12" letter-spacing="1.6" fill="#A5A09C">CREATE / EXPLORE / EVOLVE</text>
+  <path d="M715 50V323" stroke="#F3EEE5" stroke-opacity=".11"/>
+  <text x="744" y="80" font-family="monospace" font-size="11" letter-spacing="2" fill="#9B9AA0">STUDY NO. 001</text>
+  <text x="744" y="99" font-family="Noto Sans CJK JP, Yu Gothic, Hiragino Kaku Gothic ProN, sans-serif" font-size="12" letter-spacing="3" fill="#E9E1D3">構想から形へ</text>
+  <circle cx="984" cy="181" r="141" fill="none" stroke="#D85A43" stroke-opacity=".26" stroke-dasharray="2 9">
+    <animateTransform attributeName="transform" type="rotate" from="0 984 181" to="360 984 181" dur="70s" repeatCount="indefinite"/>
   </circle>
-  <g font-family="monospace" font-size="10" letter-spacing="1.6"><text x="678" y="35" fill="#849ab3">SYS / 001</text>
-    <text x="857" y="263" fill="#78f7d4">ACTIVE</text><circle cx="842" cy="258" r="3" fill="#78f7d4">
-      <animate attributeName="opacity" values=".3;1;.3" dur="2.4s" repeatCount="indefinite"/></circle></g>
-  <path d="M0 292H1000" stroke="#78f7d4" stroke-opacity=".3"/>
-  <rect x="0" y="291" width="150" height="2" rx="1" fill="#78f7d4" opacity=".9">
-    <animate attributeName="x" values="-150;1000" dur="9s" repeatCount="indefinite"/></rect>
+  <circle cx="984" cy="181" r="122" fill="none" stroke="#F3EEE5" stroke-opacity=".13" stroke-width="1"/>
+  <circle cx="984" cy="181" r="119" fill="#E56045" opacity=".17" filter="url(#glow)"/>
+  <circle cx="984" cy="181" r="116" fill="url(#sun)">
+    <animate attributeName="opacity" values=".97;.78;.97" dur="7s" repeatCount="indefinite"/>
+  </circle>
+  <g clip-path="url(#sunmask)">
+    <path d="M861 133H1108M860 153H1110M861 172H1109M858 196H1110M857 220H1111M850 245H1118" stroke="#23191C" stroke-opacity=".15" stroke-width="2"/>
+    <path d="M863 217H1108M862 223H1109M859 233H1110M850 252H1120" stroke="#1D1518" stroke-opacity=".4" stroke-width="7"/>
+    <path d="M864 260L903 227L941 240L976 196L1015 233L1056 204L1116 249V312H860Z" fill="#15131A" fill-opacity=".55"/>
+    <path d="M855 300L891 273L934 292L969 254L1012 288L1052 266L1118 293V327H853Z" fill="#0E1017" fill-opacity=".82"/>
+  </g>
+  <circle cx="984" cy="181" r="151" fill="none" stroke="#D85A43" stroke-opacity=".65" stroke-width="2" stroke-dasharray="47 900">
+    <animateTransform attributeName="transform" type="rotate" from="0 984 181" to="-360 984 181" dur="28s" repeatCount="indefinite"/>
+  </circle>
+  <path d="M794 182H829M1139 182H1170" stroke="#D85A43" stroke-opacity=".7" stroke-width="1.2"/>
+  <path d="M984 16V43M984 321V343" stroke="#D85A43" stroke-opacity=".7" stroke-width="1.2"/>
+  <text x="744" y="306" font-family="Noto Sans CJK JP, Yu Gothic, Hiragino Kaku Gothic ProN, sans-serif" font-size="13" letter-spacing="2" fill="#D8CFC3">創造  ·  技術  ·  探究</text>
+  <circle cx="1135" cy="69" r="3.5" fill="#DC5A44"><animate attributeName="opacity" values=".3;1;.3" dur="2.9s" repeatCount="indefinite"/></circle>
+  <text x="1073" y="51" font-family="monospace" font-size="10" letter-spacing="1.4" fill="#A4A0A0">LIVE / 26</text>
+  <rect x="-210" y="375" width="210" height="3" fill="url(#trace)">
+    <animate attributeName="x" values="-210;1200" dur="11s" repeatCount="indefinite"/>
+  </rect>
+  <path d="M50 0H1200" stroke="#E56447" stroke-opacity=".22"/>
+  <rect x="1" y="1" width="1198" height="378" rx="11" fill="none" stroke="#B9A9A0" stroke-opacity=".19"/>
 </g>
-<rect x="1" y="1" width="998" height="298" rx="21" fill="none" stroke="#3c5970" stroke-opacity=".65" stroke-width="1.5"/>
 </svg>
