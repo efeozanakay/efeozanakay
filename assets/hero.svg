@@ -1,61 +1,42 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="300" viewBox="0 0 1000 300" role="img" aria-labelledby="title description">
-<title id="title">Efe Ozan Akay — software, automation and creative technology</title>
-<desc id="description">Dark technical interface with slowly moving orbital rings and a pulsing signal.</desc>
+<title id="title">Efe Ozan Akay — building across software, AI, design and media</title>
+<desc id="description">Animated dark interface with rotating orbital rings, subtle scan lines and a pulsing signal.</desc>
 <defs>
   <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-    <stop offset="0" stop-color="#07101c"/>
-    <stop offset=".55" stop-color="#0b1424"/>
-    <stop offset="1" stop-color="#101326"/>
+    <stop offset="0" stop-color="#07101c"/><stop offset=".55" stop-color="#0b1424"/><stop offset="1" stop-color="#101326"/>
   </linearGradient>
-  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
-    <stop offset="0" stop-color="#78f7d4"/><stop offset="1" stop-color="#829dff"/>
-  </linearGradient>
-  <radialGradient id="halo">
-    <stop offset="0" stop-color="#68e9d5" stop-opacity=".15"/>
-    <stop offset="1" stop-color="#68e9d5" stop-opacity="0"/>
-  </radialGradient>
-  <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
-    <path d="M28 0H0V28" fill="none" stroke="#94b8d2" stroke-opacity=".075" stroke-width="1"/>
-  </pattern>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#78f7d4"/><stop offset="1" stop-color="#829dff"/></linearGradient>
+  <radialGradient id="halo"><stop offset="0" stop-color="#68e9d5" stop-opacity=".15"/><stop offset="1" stop-color="#68e9d5" stop-opacity="0"/></radialGradient>
+  <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#94b8d2" stroke-opacity=".075"/></pattern>
   <clipPath id="frame"><rect x="1" y="1" width="998" height="298" rx="21"/></clipPath>
 </defs>
 <g clip-path="url(#frame)">
-  <rect width="1000" height="300" fill="url(#bg)"/>
-  <rect width="1000" height="300" fill="url(#grid)"/>
+  <rect width="1000" height="300" fill="url(#bg)"/><rect width="1000" height="300" fill="url(#grid)"/>
   <circle cx="802" cy="152" r="190" fill="url(#halo)"/>
   <path d="M0 258H645L708 198M0 274H684L756 204M674 0L735 65" stroke="#78f7d4" stroke-opacity=".13" fill="none" stroke-width="1.4"/>
   <path d="M0 45H440M0 50H300" stroke="#9ab2ff" stroke-opacity=".12" fill="none"/>
   <rect x="48" y="44" width="31" height="26" rx="4" fill="#78f7d4" fill-opacity=".1" stroke="#78f7d4" stroke-opacity=".65"/>
   <text x="54" y="62" font-size="14" font-weight="700" font-family="Arial, sans-serif" fill="#a5ffe7">EA</text>
-  <text x="92" y="61" font-family="monospace" font-size="12" letter-spacing="2.3" fill="#91a8c4">DESIGNING WHAT WORKS</text>
+  <text x="92" y="61" font-family="monospace" font-size="12" letter-spacing="2.0" fill="#91a8c4">BUILDING BEYOND ONE DISCIPLINE</text>
   <rect x="49" y="93" width="36" height="3" rx="1.5" fill="url(#accent)"/>
-  <text x="49" y="147" font-family="Arial, Helvetica, sans-serif" font-size="51" font-weight="800" letter-spacing="1.0" fill="#f1f6ff">EFE OZAN AKAY</text>
-  <text x="51" y="186" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="500" fill="#80ead2">SOFTWARE  /  AUTOMATION  /  CREATIVE TECH</text>
-  <text x="51" y="219" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#afbdd1">Turning real-world complexity into useful digital experiences.</text>
-  <line x1="50" y1="246" x2="579" y2="246" stroke="#40566c" stroke-width="1"/>
-  <circle cx="58" cy="267" r="4" fill="#72f2ce">
-    <animate attributeName="opacity" values="1;.35;1" dur="2.8s" repeatCount="indefinite"/>
-  </circle>
+  <text x="49" y="147" font-family="Arial, Helvetica, sans-serif" font-size="51" font-weight="800" letter-spacing="1" fill="#f1f6ff">EFE OZAN AKAY</text>
+  <text x="51" y="186" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="500" fill="#80ead2">SOFTWARE  /  AI  /  DESIGN  /  MEDIA</text>
+  <text x="51" y="219" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#afbdd1">From the first idea to the final experience.</text>
+  <line x1="50" y1="246" x2="579" y2="246" stroke="#40566c"/>
+  <circle cx="58" cy="267" r="4" fill="#72f2ce"><animate attributeName="opacity" values="1;.35;1" dur="2.8s" repeatCount="indefinite"/></circle>
   <text x="73" y="272" font-family="monospace" font-size="11.5" fill="#a0aec4" letter-spacing=".7">ANTALYA, TR</text>
-  <text x="295" y="272" font-family="monospace" font-size="11.5" fill="#a0aec4" letter-spacing=".7">BUILD  /  ITERATE  /  SHIP</text>
-  <g opacity=".75">
-    <path d="M630 24V276M973 24V276" stroke="#7792ac" stroke-opacity=".24"/>
-    <path d="M646 23H972M646 277H972" stroke="#7792ac" stroke-opacity=".15"/>
-  </g>
-  <circle cx="808" cy="149" r="113" fill="none" stroke="#7091a7" stroke-opacity=".18" stroke-width="1"/>
-  <circle cx="808" cy="149" r="92" fill="none" stroke="#78f7d4" stroke-opacity=".27" stroke-width="1" stroke-dasharray="2 9"/>
+  <text x="295" y="272" font-family="monospace" font-size="11.5" fill="#a0aec4" letter-spacing=".7">IMAGINE  /  BUILD  /  EVOLVE</text>
+  <g opacity=".75"><path d="M630 24V276M973 24V276" stroke="#7792ac" stroke-opacity=".24"/><path d="M646 23H972M646 277H972" stroke="#7792ac" stroke-opacity=".15"/></g>
+  <circle cx="808" cy="149" r="113" fill="none" stroke="#7091a7" stroke-opacity=".18"/>
+  <circle cx="808" cy="149" r="92" fill="none" stroke="#78f7d4" stroke-opacity=".27" stroke-dasharray="2 9"/>
   <circle cx="808" cy="149" r="69" fill="none" stroke="#90a5ff" stroke-opacity=".46" stroke-width="1.1"/>
-  <circle cx="808" cy="149" r="47" fill="none" stroke="#78f7d4" stroke-opacity=".21" stroke-width="1"/>
-  <g>
-    <animateTransform attributeName="transform" type="rotate" from="0 808 149" to="360 808 149" dur="22s" repeatCount="indefinite"/>
+  <circle cx="808" cy="149" r="47" fill="none" stroke="#78f7d4" stroke-opacity=".21"/>
+  <g><animateTransform attributeName="transform" type="rotate" from="0 808 149" to="360 808 149" dur="22s" repeatCount="indefinite"/>
     <path d="M808 57 A92 92 0 0 1 893 115" fill="none" stroke="#72f2ce" stroke-width="3.5" stroke-linecap="round"/>
-    <circle cx="808" cy="57" r="5" fill="#72f2ce"/>
-    <circle cx="885" cy="199" r="3" fill="#a69eff"/>
+    <circle cx="808" cy="57" r="5" fill="#72f2ce"/><circle cx="885" cy="199" r="3" fill="#a69eff"/>
   </g>
-  <g>
-    <animateTransform attributeName="transform" type="rotate" from="0 808 149" to="-360 808 149" dur="30s" repeatCount="indefinite"/>
-    <path d="M808 80 A69 69 0 0 0 748 115" fill="none" stroke="#a29aff" stroke-width="3" stroke-linecap="round"/>
-    <circle cx="808" cy="80" r="3" fill="#a29aff"/>
+  <g><animateTransform attributeName="transform" type="rotate" from="0 808 149" to="-360 808 149" dur="30s" repeatCount="indefinite"/>
+    <path d="M808 80 A69 69 0 0 0 748 115" fill="none" stroke="#a29aff" stroke-width="3" stroke-linecap="round"/><circle cx="808" cy="80" r="3" fill="#a29aff"/>
   </g>
   <path d="M808 110V188M769 149H847" stroke="#a3ffe6" stroke-opacity=".3"/>
   <rect x="785" y="126" width="46" height="46" rx="11" fill="#132d3a" stroke="#73f0cf" stroke-opacity=".7" stroke-width="1.4"/>
@@ -64,17 +45,12 @@
     <animate attributeName="r" values="25;42;25" dur="4s" repeatCount="indefinite"/>
     <animate attributeName="stroke-opacity" values=".25;0;.25" dur="4s" repeatCount="indefinite"/>
   </circle>
-  <g font-family="monospace" font-size="10" letter-spacing="1.6">
-    <text x="678" y="35" fill="#849ab3">SYS / 001</text>
-    <text x="857" y="263" fill="#78f7d4">ACTIVE</text>
-    <circle cx="842" cy="258" r="3" fill="#78f7d4">
-      <animate attributeName="opacity" values=".3;1;.3" dur="2.4s" repeatCount="indefinite"/>
-    </circle>
-  </g>
+  <g font-family="monospace" font-size="10" letter-spacing="1.6"><text x="678" y="35" fill="#849ab3">SYS / 001</text>
+    <text x="857" y="263" fill="#78f7d4">ACTIVE</text><circle cx="842" cy="258" r="3" fill="#78f7d4">
+      <animate attributeName="opacity" values=".3;1;.3" dur="2.4s" repeatCount="indefinite"/></circle></g>
   <path d="M0 292H1000" stroke="#78f7d4" stroke-opacity=".3"/>
   <rect x="0" y="291" width="150" height="2" rx="1" fill="#78f7d4" opacity=".9">
-    <animate attributeName="x" values="-150;1000" dur="9s" repeatCount="indefinite"/>
-  </rect>
+    <animate attributeName="x" values="-150;1000" dur="9s" repeatCount="indefinite"/></rect>
 </g>
 <rect x="1" y="1" width="998" height="298" rx="21" fill="none" stroke="#3c5970" stroke-opacity=".65" stroke-width="1.5"/>
 </svg>
