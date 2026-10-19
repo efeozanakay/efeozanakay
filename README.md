@@ -1,106 +1,102 @@
 <div align="center">
 
-<img src="./assets/hero.svg" width="100%" alt="Japanese-inspired animated editorial banner for Efe Ozan Akay — code, AI, design, film and sound." />
+<img src="./assets/hero.svg" width="100%" alt="Efe Ozan Akay — software, AI, automation and creative technology." />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3300&pause=1300&color=D85A43&center=true&vCenter=true&width=780&height=50&lines=Ideas+into+things+that+exist.;Code+%E2%80%A2+AI+%E2%80%A2+Design+%E2%80%A2+Film+%E2%80%A2+Sound;Building+across+disciplines.;Always+exploring.+Always+making." alt="Animated lines about creating across disciplines." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3300&pause=1300&color=D85A43&center=true&vCenter=true&width=780&height=50&lines=Ideas+into+things+that+work.;Software+%E2%80%A2+AI+%E2%80%A2+Automation;From+operational+problems+to+useful+products.;Building.+Testing.+Refining." alt="Software, AI, automation and product development." />
 
-**DIGITAL BUILDER &nbsp; / &nbsp; CREATIVE TECHNOLOGIST**
+**SOFTWARE BUILDER &nbsp; / &nbsp; AI AUTOMATION &nbsp; / &nbsp; CREATIVE TECHNOLOGY**
 
-<sub>ソフトウェア　·　人工知能　·　デザイン　·　映像　·　音楽</sub>
+<sub>Antalya, Türkiye · Turning real-world workflows into useful software</sub>
 
 [![Explore projects](https://img.shields.io/badge/EXPLORE_PROJECTS-17171C?style=flat-square&logo=github&logoColor=E0DDD6&labelColor=C9513F)](https://github.com/efeozanakay?tab=repositories)
-[![Creative studio](https://img.shields.io/badge/CREATIVE_STUDIO-17171C?style=flat-square&logo=github&logoColor=E0DDD6&labelColor=C9513F)](https://github.com/efeozanakay/ozzy-studio)
+[![SWT Elite](https://img.shields.io/badge/SWT_ELITE-17171C?style=flat-square&logo=googlechrome&logoColor=E0DDD6&labelColor=C9513F)](https://swtelite.com)
+[![Ozzy Studio](https://img.shields.io/badge/OZZY_STUDIO-17171C?style=flat-square&logo=github&logoColor=E0DDD6&labelColor=C9513F)](https://github.com/efeozanakay/ozzy-studio)
 
 </div>
 
 ---
 
-### `00` — はじめに / ABOUT
+### `00` — ABOUT
 
-I’m Efe. **I create across disciplines, not inside a single box.**
+I’m **Efe Ozan Akay**, a builder working across software, AI, workflow automation and creative technology.
 
-Some things start with a problem worth solving. Others begin with an image, an idea for a product, a sound, a story, or a question about what technology makes possible.
+My starting point is usually a real problem: repetitive operational work, messy spreadsheets, disconnected systems, or an idea that deserves to become a working product. I design and build tools that make those workflows clearer, faster and more reliable.
 
-My work moves between **software engineering, AI, automation, digital products, visual design, filmmaking, sound, and creative research**. I’m as interested in how something *works* as in how it *looks, feels, and communicates*.
+I’m currently focused on **travel operations software, booking-flow engineering, data automation, AI-assisted research, and production-minded web applications**. Alongside that work, I explore visual storytelling, generative media, animation and sound.
 
-> **From concept to craft. From experiments to experiences.**
+> **Build useful things. Make them reliable. Give them a clear identity.**
 
-### `01` — 領域 / WHAT I EXPLORE
+### `01` — CURRENT FOCUS
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <b>01 / SOFTWARE & PRODUCTS</b>
-      <p>Web applications, internal tools, digital products, interactive experiences, prototypes and systems that solve real problems.</p>
+      <b>01 / TRAVEL TECH & OPERATIONS</b>
+      <p>Working on SWT Elite's digital presence and the SWT Port-connected B2C transfer booking journey, with attention to booking rules, operational handoff, release controls and production readiness.</p>
     </td>
     <td width="50%" valign="top">
-      <b>02 / ARTIFICIAL INTELLIGENCE</b>
-      <p>AI workflows, generative models, creative pipelines, research, experimentation and intelligent tools.</p>
+      <b>02 / WORKFLOW AUTOMATION</b>
+      <p>Practical tools for flight checks, pickup-time documents, reservation spreadsheets, validation and other repetitive travel operations.</p>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <b>03 / AUTOMATION & SYSTEMS</b>
-      <p>Data processing, integrations, documents, spreadsheets, operational workflows and removing repetitive work.</p>
+      <b>03 / AI-POWERED TOOLS</b>
+      <p>Research and lead discovery, creative intelligence, structured workflows and AI-assisted ways to turn information into useful next steps.</p>
     </td>
     <td valign="top">
-      <b>04 / DESIGN & DIGITAL EXPERIENCES</b>
-      <p>Visual identity, interfaces, website experiences, interaction, art direction and concept development.</p>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">
-      <b>05 / FILM, MOTION & SOUND</b>
-      <p>Animation, generative video, cinematic storytelling, editing, sound design and atmospheric music.</p>
-    </td>
-    <td valign="top">
-      <b>06 / BRANDS & CREATIVE STRATEGY</b>
-      <p>Advertising concepts, product storytelling, creative research, marketing experiments and ideas that become finished work.</p>
+      <b>04 / CREATIVE TECHNOLOGY</b>
+      <p>Ozzy Studio, generative visuals, cinematic animation, editing, sound and experiments at the intersection of art and technology.</p>
     </td>
   </tr>
 </table>
 
-### `02` — 制作 / SELECTED WORK
+### `02` — SELECTED PROJECTS
 
-<sub>Some of the things I make live in repositories. Others live in timelines, frames, prototypes and experiments.</sub>
+**TRAVEL OPERATIONS & AUTOMATION**
 
-**SYSTEMS / APPLICATIONS**
+- [**FlightChecker**](https://github.com/efeozanakay/Flight-Checker) — a flight-schedule validation tool designed to help identify discrepancies between operational schedules and flight information.
+- [**Pickup Sender**](https://github.com/efeozanakay/Pickuptime-sender) — automates hotel-grouped pickup documents and supports recipient matching for operational email workflows.
+- [**Reservation Data Transformation Tool**](https://github.com/efeozanakay/reservation-data-transformation-tool) — structures, validates and transforms reservation spreadsheet data.
+- [**SWT Elite Website**](https://github.com/efeozanakay/swt-elite-website) — the web platform for a B2B travel operations and ground-handling business, with an evolving transfer-booking experience.
 
-- [**FlightChecker**](https://github.com/efeozanakay/Flight-Checker) — flight schedule validation and discrepancy detection using live data.
-- [**Pickup Sender**](https://github.com/efeozanakay/Pickuptime-sender) — turning multi-hotel PDF workflows into automated document and email delivery.
-- [**Reservation Data Transformation**](https://github.com/efeozanakay/reservation-data-transformation-tool) — structured, testable spreadsheet validation and transformation.
-- [**ClientFinder**](https://github.com/efeozanakay/client-finder) — research-driven B2B lead discovery and review workflows.
+**RESEARCH & PRODUCT EXPERIMENTS**
 
-**PRODUCT / WEB / EXPERIENCE**
+- [**ClientFinder**](https://github.com/efeozanakay/client-finder) — a research-driven workflow for B2B prospect discovery and lead review.
+- [**OZZY Creative Intelligence**](https://github.com/efeozanakay/ozzy-creative-intelligence) — experiments in creative research, audience insight and advertising concept development.
+- [**Ozzy Studio**](https://github.com/efeozanakay/ozzy-studio) — a creative technology studio exploring the intersection of design, media, brands and software.
 
-- [**SWT ELITE Website**](https://github.com/efeozanakay/swt-elite-website) — a real-world corporate web experience and evolving digital product.
-- [**Ozzy Studio**](https://github.com/efeozanakay/ozzy-studio) — a creative studio experience bringing brands, artists, film and technology together.
+**FILM & STORYTELLING**
 
-**AI / RESEARCH / EXPERIMENTATION**
+Beyond software, I make and explore cinematic short-form animation, gothic storytelling, generative imagery and video, editing, music and sound design.
 
-- [**OZZY Creative Intelligence**](https://github.com/efeozanakay/ozzy-creative-intelligence) — exploring research, audience insights, creative angles and advertising concepts.
-- **Beyond the code** — animated short films, cinematic studies, generative visual work, music and sound experiments, creative direction and emerging workflows.
+<sub>Projects evolve at different speeds; experimental work and prototypes are not necessarily production releases.</sub>
 
-<sub>More in the [repository archive ↗](https://github.com/efeozanakay?tab=repositories)</sub>
+### `03` — TOOLKIT
 
-### `03` — 道具 / TOOLKIT
+**LANGUAGES & WEB**  
+`Python` · `TypeScript` · `JavaScript` · `SQL` · `React` · `Next.js` · `FastAPI` · `Streamlit` · `Tailwind CSS`
 
-**BUILD** &nbsp; `Python` · `JavaScript` · `TypeScript` · `React` · `Next.js` · `FastAPI` · `Streamlit` · `Tailwind CSS`
+**AUTOMATION & SYSTEMS**  
+APIs · Data validation · Spreadsheet processing · Document workflows · Integrations · Git · CI/testing · Cloudflare
 
-**CONNECT** &nbsp; APIs · Integrations · Data workflows · Automation · Cloudflare · GitHub
+**AI & CREATIVE TOOLS**  
+AI-assisted development · Generative image/video workflows · Motion design · Video editing · Visual storytelling · Music & sound
 
-**CREATE** &nbsp; Generative image & video · Motion design · Editing · Visual storytelling · Music & sound · Creative direction
-
-### `04` — 方法 / THE PROCESS
+### `04` — HOW I WORK
 
 <div align="center">
 
-`OBSERVE` &nbsp; → &nbsp; `EXPLORE` &nbsp; → &nbsp; `PROTOTYPE` &nbsp; → &nbsp; `BUILD` &nbsp; → &nbsp; `REFINE`
+`UNDERSTAND` &nbsp; → &nbsp; `DESIGN` &nbsp; → &nbsp; `BUILD` &nbsp; → &nbsp; `TEST` &nbsp; → &nbsp; `REFINE`
 
-**分野を越えて、つくる。**
+**実用性 × 創造性**
 
-*Create beyond disciplines.*
+*Practical systems. Thoughtful experiences.*
 
-<sub>Based in Antalya, Türkiye · Curious about the next interesting thing.</sub>
+</div>
 
+---
+
+<div align="center">
+<sub>Building from Antalya, Türkiye · Open to meaningful collaborations and useful problems.</sub>
 </div>
