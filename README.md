@@ -6,8 +6,9 @@
 
 **SOFTWARE BUILDER &nbsp; / &nbsp; AI AUTOMATION &nbsp; / &nbsp; CREATIVE TECHNOLOGY**
 
-<sub>Antalya, Türkiye · Turning real-world workflows into useful software</sub>
+<sub>Antalya, Türkiye · Building useful software, independent products and creative experiences</sub>
 
+[![MAROONED](https://img.shields.io/badge/FEATURED_PRODUCT-MAROONED-17171C?style=flat-square&logo=apple&logoColor=E0DDD6&labelColor=C9513F)](https://github.com/efeozanakay/marooned)
 [![Explore projects](https://img.shields.io/badge/EXPLORE_PROJECTS-17171C?style=flat-square&logo=github&logoColor=E0DDD6&labelColor=C9513F)](https://github.com/efeozanakay?tab=repositories)
 [![SWT Elite](https://img.shields.io/badge/SWT_ELITE-17171C?style=flat-square&logo=googlechrome&logoColor=E0DDD6&labelColor=C9513F)](https://swtelite.com)
 [![Ozzy Studio](https://img.shields.io/badge/OZZY_STUDIO-17171C?style=flat-square&logo=github&logoColor=E0DDD6&labelColor=C9513F)](https://github.com/efeozanakay/ozzy-studio)
@@ -22,11 +23,28 @@ I’m **Efe Ozan Akay**, a builder working across software, AI, workflow automat
 
 My starting point is usually a real problem: repetitive operational work, messy spreadsheets, disconnected systems, or an idea that deserves to become a working product. I design and build tools that make those workflows clearer, faster and more reliable.
 
-I’m currently focused on **travel operations software, booking-flow engineering, data automation, AI-assisted research, and production-minded web applications**. Alongside that work, I explore visual storytelling, generative media, animation and sound.
+My two defining tracks are **Marooned**, an interactive audiovisual instrument for making atmospheric music through touch, and **real-world software**, including travel operations, booking-flow engineering and workflow automation. I also explore AI-assisted research, visual storytelling, generative media, animation and sound.
 
 > **Build useful things. Make them reliable. Give them a clear identity.**
 
-### `01` — CURRENT FOCUS
+### `01` — FEATURED PRODUCT
+
+<div align="center">
+
+# [MAROONED](https://github.com/efeozanakay/marooned)
+
+**Make sound. Shape light.**
+
+*An interactive audiovisual playground for creating dark, cinematic soundscapes through touch — no music theory required.*
+
+[![Explore Marooned](https://img.shields.io/badge/EXPLORE_MAROONED-17171C?style=for-the-badge&logo=github&logoColor=E0DDD6&labelColor=C9513F)](https://github.com/efeozanakay/marooned)
+[![Visit Marooned](https://img.shields.io/badge/MAROONED.APP-17171C?style=for-the-badge&logo=safari&logoColor=E0DDD6&labelColor=386B68)](https://marooned.app)
+
+</div>
+
+Marooned turns musical exploration into a tactile audiovisual experience. It combines a multi-engine sound system, interactive visuals and performance controls in a focused instrument designed to make expressive sound creation approachable. The iOS app is built with **Capacitor** around a shared web app, with **RevenueCat** supporting in-app purchases and a cloud build workflow for TestFlight delivery.
+
+### `02` — CURRENT FOCUS
 
 <table>
   <tr>
@@ -51,7 +69,11 @@ I’m currently focused on **travel operations software, booking-flow engineerin
   </tr>
 </table>
 
-### `02` — SELECTED PROJECTS
+### `03` — SELECTED PROJECTS
+
+**PRODUCT / AUDIOVISUAL EXPERIENCE**
+
+- [**Marooned**](https://github.com/efeozanakay/marooned) — an interactive audiovisual instrument for touch-driven, atmospheric music creation; shared web app and iOS packaging, with in-app purchase infrastructure.
 
 **TRAVEL OPERATIONS & AUTOMATION**
 
@@ -72,7 +94,7 @@ Beyond software, I make and explore cinematic short-form animation, gothic story
 
 <sub>Projects evolve at different speeds; experimental work and prototypes are not necessarily production releases.</sub>
 
-### `03` — TOOLKIT
+### `04` — TOOLKIT
 
 **LANGUAGES & WEB**  
 `Python` · `TypeScript` · `JavaScript` · `SQL` · `React` · `Next.js` · `FastAPI` · `Streamlit` · `Tailwind CSS`
@@ -83,7 +105,7 @@ APIs · Data validation · Spreadsheet processing · Document workflows · Integ
 **AI & CREATIVE TOOLS**  
 AI-assisted development · Generative image/video workflows · Motion design · Video editing · Visual storytelling · Music & sound
 
-### `04` — HOW I WORK
+### `05` — HOW I WORK
 
 <div align="center">
 
