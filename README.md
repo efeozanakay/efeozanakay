@@ -1,124 +1,116 @@
 <div align="center">
 
-<img src="./assets/hero.svg" width="100%" alt="Efe Ozan Akay — software, AI, automation and creative technology." />
+<img src="./assets/hero.svg" alt="Efe Ozan Akay — Ideas into experiences. Software, sound, film and systems." width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3300&pause=1300&color=D85A43&center=true&vCenter=true&width=780&height=50&lines=Ideas+into+things+that+work.;Software+%E2%80%A2+AI+%E2%80%A2+Automation;From+operational+problems+to+useful+products.;Building.+Testing.+Refining." alt="Software, AI, automation and product development." />
+<br />
 
-**SOFTWARE BUILDER &nbsp; / &nbsp; AI AUTOMATION &nbsp; / &nbsp; CREATIVE TECHNOLOGY**
+**Independent builder / Creative technologist / Founder of Ozzy Studio**
 
-<sub>Antalya, Türkiye · Building useful software, independent products and creative experiences</sub>
+I design useful software, build expressive digital products and make moving images.
+From a working prototype to the finished experience — I like owning the entire creative and technical loop.
 
-[![MAROONED](https://img.shields.io/badge/FEATURED_PRODUCT-MAROONED-17171C?style=flat-square&logo=apple&logoColor=E0DDD6&labelColor=C9513F)](https://github.com/efeozanakay/marooned)
-[![Explore projects](https://img.shields.io/badge/EXPLORE_PROJECTS-17171C?style=flat-square&logo=github&logoColor=E0DDD6&labelColor=C9513F)](https://github.com/efeozanakay?tab=repositories)
-[![SWT Elite](https://img.shields.io/badge/SWT_ELITE-17171C?style=flat-square&logo=googlechrome&logoColor=E0DDD6&labelColor=C9513F)](https://swtelite.com)
-[![Ozzy Studio](https://img.shields.io/badge/OZZY_STUDIO-17171C?style=flat-square&logo=github&logoColor=E0DDD6&labelColor=C9513F)](https://github.com/efeozanakay/ozzy-studio)
+**[Explore Marooned](https://marooned.app)** &nbsp;·&nbsp; **[View Ozzy Studio](https://ozzystudio.com)** &nbsp;·&nbsp; **[See my experiments](https://github.com/efeozanakay/colab-comfyui-h3-video-notes)**
 
-</div>
-
----
-
-### `00` — ABOUT
-
-I’m **Efe Ozan Akay**, a builder working across software, AI, workflow automation and creative technology.
-
-My starting point is usually a real problem: repetitive operational work, messy spreadsheets, disconnected systems, or an idea that deserves to become a working product. I design and build tools that make those workflows clearer, faster and more reliable.
-
-My two defining tracks are **Marooned**, an interactive audiovisual instrument for making atmospheric music through touch, and **real-world software**, including travel operations, booking-flow engineering and workflow automation. I also explore AI-assisted research, visual storytelling, generative media, animation and sound.
-
-> **Build useful things. Make them reliable. Give them a clear identity.**
-
-### `01` — FEATURED PRODUCT
-
-<div align="center">
-
-# [MAROONED](https://github.com/efeozanakay/marooned)
-
-**Make sound. Shape light.**
-
-*An interactive audiovisual playground for creating dark, cinematic soundscapes through touch — no music theory required.*
-
-[![Explore Marooned](https://img.shields.io/badge/EXPLORE_MAROONED-17171C?style=for-the-badge&logo=github&logoColor=E0DDD6&labelColor=C9513F)](https://github.com/efeozanakay/marooned)
-[![Visit Marooned](https://img.shields.io/badge/MAROONED.APP-17171C?style=for-the-badge&logo=safari&logoColor=E0DDD6&labelColor=386B68)](https://marooned.app)
+<sub>Based in Antalya, Türkiye. Building across product engineering, creative production and AI-assisted workflows.</sub>
 
 </div>
 
-Marooned turns musical exploration into a tactile audiovisual experience. It combines a multi-engine sound system, interactive visuals and performance controls in a focused instrument designed to make expressive sound creation approachable. The iOS app is built with **Capacitor** around a shared web app, with **RevenueCat** supporting in-app purchases and a cloud build workflow for TestFlight delivery.
+<br />
 
-### `02` — CURRENT FOCUS
+## 01 — Selected work
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <b>01 / TRAVEL TECH & OPERATIONS</b>
-      <p>Working on SWT Elite's digital presence and the SWT Port-connected B2C transfer booking journey, with attention to booking rules, operational handoff, release controls and production readiness.</p>
-    </td>
-    <td width="50%" valign="top">
-      <b>02 / WORKFLOW AUTOMATION</b>
-      <p>Practical tools for flight checks, pickup-time documents, reservation spreadsheets, validation and other repetitive travel operations.</p>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">
-      <b>03 / AI-POWERED TOOLS</b>
-      <p>Research and lead discovery, creative intelligence, structured workflows and AI-assisted ways to turn information into useful next steps.</p>
-    </td>
-    <td valign="top">
-      <b>04 / CREATIVE TECHNOLOGY</b>
-      <p>Ozzy Studio, generative visuals, cinematic animation, editing, sound and experiments at the intersection of art and technology.</p>
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+  <a href="https://marooned.app"><img src="./assets/card-marooned.svg" width="100%" alt="Marooned interactive sound and light instrument"/></a>
+  <h3><a href="https://marooned.app">Marooned</a></h3>
+  <p>An interactive audiovisual instrument: sculpt sound and light, explore atmospheric textures and play together through Remote Jam. Built for the web and packaged for iOS.</p>
+  <p><strong>Interactive audio · Visual systems · Web + iOS</strong></p>
+  <p><a href="https://marooned.app">Launch web app ↗</a></p>
+</td>
+<td width="50%" valign="top">
+  <a href="https://ozzystudio.com"><img src="./assets/card-ozzy.svg" width="100%" alt="Ozzy Studio cinematic creative production"/></a>
+  <h3><a href="https://ozzystudio.com">Ozzy Studio</a></h3>
+  <p>Independent creative production for brands and artists. Cinematic product films, campaign visuals, music videos and motion-led stories — blending direction, design and modern production tools.</p>
+  <p><strong>Creative direction · Film · Motion</strong></p>
+  <p><a href="https://ozzystudio.com">Explore the studio ↗</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+  <a href="https://github.com/efeozanakay/colab-comfyui-h3-video-notes"><img src="./assets/card-lab.svg" width="100%" alt="AI video lab with local RTX laptop and remote A100 workflows"/></a>
+  <h3><a href="https://github.com/efeozanakay/colab-comfyui-h3-video-notes">AI Video Lab</a></h3>
+  <p>Hands-on experiments in generative video, consistency and production pipelines. Taking an 8GB-VRAM laptop into cloud A100 workflows with Colab, ComfyUI and MiniMax H3 — with real settings and lessons documented.</p>
+  <p><strong>ComfyUI · Colab · GPU workflows · Post-production</strong></p>
+  <p><a href="https://github.com/efeozanakay/colab-comfyui-h3-video-notes">Read the public build notes ↗</a></p>
+</td>
+<td width="50%" valign="top">
+  <a href="https://swtelite.com"><img src="./assets/card-systems.svg" width="100%" alt="Real-world travel operations systems"/></a>
+  <h3><a href="https://swtelite.com">Real-world systems</a></h3>
+  <p>Digital experiences and operational tooling for real travel workflows, including SWT Elite's corporate presence and evolving transfer-booking journey. Turning complex day-to-day work into clearer interfaces and processes.</p>
+  <p><strong>Travel technology · Operations · Automation</strong></p>
+  <p><a href="https://swtelite.com">Visit SWT Elite ↗</a></p>
+</td>
+</tr>
 </table>
 
-### `03` — SELECTED PROJECTS
+<sub>Studio films and experiments are presented as creative work, not as claims of client campaign results. Some product and commercial codebases are private; the links above lead to public experiences or documentation.</sub>
 
-**PRODUCT / AUDIOVISUAL EXPERIENCE**
+<br />
 
-- [**Marooned**](https://github.com/efeozanakay/marooned) — an interactive audiovisual instrument for touch-driven, atmospheric music creation; shared web app and iOS packaging, with in-app purchase infrastructure.
+## 02 — What I'm building with
 
-**TRAVEL OPERATIONS & AUTOMATION**
+<table>
+<tr>
+<td width="33%" valign="top">
 
-- [**FlightChecker**](https://github.com/efeozanakay/Flight-Checker) — a flight-schedule validation tool designed to help identify discrepancies between operational schedules and flight information.
-- [**Pickup Sender**](https://github.com/efeozanakay/Pickuptime-sender) — automates hotel-grouped pickup documents and supports recipient matching for operational email workflows.
-- [**Reservation Data Transformation Tool**](https://github.com/efeozanakay/reservation-data-transformation-tool) — structures, validates and transforms reservation spreadsheet data.
-- [**SWT Elite Website**](https://github.com/efeozanakay/swt-elite-website) — the web platform for a B2B travel operations and ground-handling business, with an evolving transfer-booking experience.
+**PRODUCTS & WEB**
 
-**RESEARCH & PRODUCT EXPERIMENTS**
+`TypeScript` · `JavaScript` · `React` · `Next.js` · `Capacitor` · `Cloudflare`
 
-- [**ClientFinder**](https://github.com/efeozanakay/client-finder) — a research-driven workflow for B2B prospect discovery and lead review.
-- [**OZZY Creative Intelligence**](https://github.com/efeozanakay/ozzy-creative-intelligence) — experiments in creative research, audience insight and advertising concept development.
-- [**Ozzy Studio**](https://github.com/efeozanakay/ozzy-studio) — a creative technology studio exploring the intersection of design, media, brands and software.
+Interfaces, deployment, release pipelines and hands-on product iteration.
 
-**FILM & STORYTELLING**
+</td>
+<td width="33%" valign="top">
 
-Beyond software, I make and explore cinematic short-form animation, gothic storytelling, generative imagery and video, editing, music and sound design.
+**SYSTEMS & AUTOMATION**
 
-<sub>Projects evolve at different speeds; experimental work and prototypes are not necessarily production releases.</sub>
+`Python` · `APIs` · `Data workflows` · `CI/CD` · `GitHub`
 
-### `04` — TOOLKIT
+Operational tooling, spreadsheet transformation and practical integrations.
 
-**LANGUAGES & WEB**  
-`Python` · `TypeScript` · `JavaScript` · `SQL` · `React` · `Next.js` · `FastAPI` · `Streamlit` · `Tailwind CSS`
+</td>
+<td width="33%" valign="top">
 
-**AUTOMATION & SYSTEMS**  
-APIs · Data validation · Spreadsheet processing · Document workflows · Integrations · Git · CI/testing · Cloudflare
+**FILM & GENERATIVE MEDIA**
 
-**AI & CREATIVE TOOLS**  
-AI-assisted development · Generative image/video workflows · Motion design · Video editing · Visual storytelling · Music & sound
+`ComfyUI` · `Colab` · `Remotion` · `FFmpeg` · `Blender`
 
-### `05` — HOW I WORK
+Creative R&D, cinematic storytelling, sound and production workflows.
+
+</td>
+</tr>
+</table>
+
+## 03 — Public tools & field notes
+
+Not everything I build is a public repository. These are a few tools and experiments you can actually inspect:
+
+- **[Colab + ComfyUI video notes](https://github.com/efeozanakay/colab-comfyui-h3-video-notes)** — reproducible settings, model files, runtime lessons and GPU benchmarks from an actual production experiment.
+- **[Flight Checker](https://github.com/efeozanakay/Flight-Checker)** — flight-data checks designed for operational validation.
+- **[Pickup-time Sender](https://github.com/efeozanakay/Pickuptime-sender)** — grouping and preparing transfer pickup information.
+- **[Reservation Data Transformation Tool](https://github.com/efeozanakay/reservation-data-transformation-tool)** — cleaning, validating and restructuring reservation spreadsheets.
+
+<br />
 
 <div align="center">
 
-`UNDERSTAND` &nbsp; → &nbsp; `DESIGN` &nbsp; → &nbsp; `BUILD` &nbsp; → &nbsp; `TEST` &nbsp; → &nbsp; `REFINE`
+### The best work happens between disciplines.
 
-**実用性 × 創造性**
+**A useful system should feel thoughtfully made. A beautiful experience should actually work.**
 
-*Practical systems. Thoughtful experiences.*
+[**See the studio**](https://ozzystudio.com) &nbsp;·&nbsp; [**Try Marooned**](https://marooned.app) &nbsp;·&nbsp; [**Get in touch**](mailto:hello@ozzystudio.com)
 
-</div>
+<sub>© Efe Ozan Akay · Made with curiosity, tested in the real world.</sub>
 
----
-
-<div align="center">
-<sub>Building from Antalya, Türkiye · Open to meaningful collaborations and useful problems.</sub>
 </div>
