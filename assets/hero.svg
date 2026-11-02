@@ -1,59 +1,58 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" role="img" aria-labelledby="title desc">
-<title id="title">Efe Ozan Akay — Code, AI, Design, Film and Sound</title>
-<desc id="desc">Japanese-inspired nocturnal editorial banner, animated vermilion sun, rotating technical markings, subtle scan line and glowing accents.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="450" viewBox="0 0 1200 450" role="img" aria-labelledby="title desc">
+<title id="title">Efe Ozan Akay — Ideas into experiences</title>
+<desc id="desc">Editorial dark banner with an abstract luminous kinetic wave, highlighting software, film, sound and AI systems.</desc>
 <defs>
-  <linearGradient id="night" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#090B10"/><stop offset="65%" stop-color="#12131A"/><stop offset="100%" stop-color="#21191D"/></linearGradient>
-  <linearGradient id="sun" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#F17B56"/><stop offset="75%" stop-color="#C83B31"/><stop offset="100%" stop-color="#942A2B"/></linearGradient>
-  <linearGradient id="trace" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color="#D95A42" stop-opacity="0"/><stop offset="45%" stop-color="#D95A42" stop-opacity=".85"/><stop offset="100%" stop-color="#D95A42" stop-opacity="0"/></linearGradient>
-  <pattern id="mesh" width="39" height="39" patternUnits="userSpaceOnUse"><path d="M39 0H0V39" fill="none" stroke="#C9C5BA" stroke-opacity=".045" stroke-width="1"/></pattern>
-  <clipPath id="boundary"><rect width="1200" height="380" rx="12"/></clipPath>
-  <clipPath id="sunmask"><circle cx="984" cy="181" r="116"/></clipPath>
-  <filter id="glow"><feGaussianBlur stdDeviation="18"/></filter>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#080B10"/><stop offset=".57" stop-color="#10121E"/><stop offset="1" stop-color="#19102A"/></linearGradient>
+<radialGradient id="halo"><stop stop-color="#7753B3" stop-opacity=".65"/><stop offset=".5" stop-color="#523B91" stop-opacity=".26"/><stop offset="1" stop-color="#37214B" stop-opacity="0"/></radialGradient>
+<radialGradient id="core"><stop stop-color="#DCF9A0" stop-opacity=".8"/><stop offset=".26" stop-color="#A59CFC" stop-opacity=".43"/><stop offset="1" stop-color="#6955B1" stop-opacity="0"/></radialGradient>
+<pattern id="grid" width="44" height="44" patternUnits="userSpaceOnUse"><path d="M44 0H0V44" fill="none" stroke="#C8CBDB" stroke-opacity=".055"/></pattern>
+<clipPath id="clip"><rect width="1200" height="450" rx="16"/></clipPath>
 </defs>
-<g clip-path="url(#boundary)">
-  <rect width="1200" height="380" fill="url(#night)"/>
-  <rect width="1200" height="380" fill="url(#mesh)"/>
-  <path d="M0 59H1200M0 325H1200" stroke="#DCD7CD" stroke-opacity=".12"/>
-  <path d="M50 0V380M1150 0V380" stroke="#DCD7CD" stroke-opacity=".09"/>
-  <path d="M68 43H155" stroke="#E56447" stroke-width="2"/>
-  <rect x="68" y="62" width="30" height="28" rx="1" fill="#CE4C37"/>
-  <text x="74" y="81" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" fill="#FBF0E4">EA</text>
-  <text x="111" y="80" font-family="monospace" font-size="13" letter-spacing="2" fill="#B9B4AE">INDEPENDENT / INTERDISCIPLINARY</text>
-  <text x="68" y="176" font-family="Arial, Helvetica, sans-serif" font-size="72" letter-spacing="-2" font-weight="800" fill="#F3EEE5">EFE OZAN</text>
-  <text x="68" y="248" font-family="Arial, Helvetica, sans-serif" font-size="72" letter-spacing="-2" font-weight="800" fill="#F3EEE5">AKAY<tspan fill="#D85A43">.</tspan></text>
-  <text x="71" y="286" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="600" letter-spacing="2" fill="#E46C52">CODE / AI / DESIGN / FILM / SOUND</text>
-  <text x="70" y="309" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#AFAAA4">From concept to craft. From experiments to experiences.</text>
-  <text x="70" y="354" font-family="monospace" font-size="12" letter-spacing="2" fill="#A5A09C">ANTALYA · TR</text>
-  <text x="354" y="354" font-family="monospace" font-size="12" letter-spacing="1.6" fill="#A5A09C">CREATE / EXPLORE / EVOLVE</text>
-  <path d="M715 50V323" stroke="#F3EEE5" stroke-opacity=".11"/>
-  <text x="744" y="80" font-family="monospace" font-size="11" letter-spacing="2" fill="#9B9AA0">STUDY NO. 001</text>
-  <text x="744" y="99" font-family="Noto Sans CJK JP, Yu Gothic, Hiragino Kaku Gothic ProN, sans-serif" font-size="12" letter-spacing="3" fill="#E9E1D3">構想から形へ</text>
-  <circle cx="984" cy="181" r="141" fill="none" stroke="#D85A43" stroke-opacity=".26" stroke-dasharray="2 9">
-    <animateTransform attributeName="transform" type="rotate" from="0 984 181" to="360 984 181" dur="70s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="984" cy="181" r="122" fill="none" stroke="#F3EEE5" stroke-opacity=".13" stroke-width="1"/>
-  <circle cx="984" cy="181" r="119" fill="#E56045" opacity=".17" filter="url(#glow)"/>
-  <circle cx="984" cy="181" r="116" fill="url(#sun)">
-    <animate attributeName="opacity" values=".97;.78;.97" dur="7s" repeatCount="indefinite"/>
-  </circle>
-  <g clip-path="url(#sunmask)">
-    <path d="M861 133H1108M860 153H1110M861 172H1109M858 196H1110M857 220H1111M850 245H1118" stroke="#23191C" stroke-opacity=".15" stroke-width="2"/>
-    <path d="M863 217H1108M862 223H1109M859 233H1110M850 252H1120" stroke="#1D1518" stroke-opacity=".4" stroke-width="7"/>
-    <path d="M864 260L903 227L941 240L976 196L1015 233L1056 204L1116 249V312H860Z" fill="#15131A" fill-opacity=".55"/>
-    <path d="M855 300L891 273L934 292L969 254L1012 288L1052 266L1118 293V327H853Z" fill="#0E1017" fill-opacity=".82"/>
-  </g>
-  <circle cx="984" cy="181" r="151" fill="none" stroke="#D85A43" stroke-opacity=".65" stroke-width="2" stroke-dasharray="47 900">
-    <animateTransform attributeName="transform" type="rotate" from="0 984 181" to="-360 984 181" dur="28s" repeatCount="indefinite"/>
-  </circle>
-  <path d="M794 182H829M1139 182H1170" stroke="#D85A43" stroke-opacity=".7" stroke-width="1.2"/>
-  <path d="M984 16V43M984 321V343" stroke="#D85A43" stroke-opacity=".7" stroke-width="1.2"/>
-  <text x="744" y="306" font-family="Noto Sans CJK JP, Yu Gothic, Hiragino Kaku Gothic ProN, sans-serif" font-size="13" letter-spacing="2" fill="#D8CFC3">創造  ·  技術  ·  探究</text>
-  <circle cx="1135" cy="69" r="3.5" fill="#DC5A44"><animate attributeName="opacity" values=".3;1;.3" dur="2.9s" repeatCount="indefinite"/></circle>
-  <text x="1073" y="51" font-family="monospace" font-size="10" letter-spacing="1.4" fill="#A4A0A0">LIVE / 26</text>
-  <rect x="-210" y="375" width="210" height="3" fill="url(#trace)">
-    <animate attributeName="x" values="-210;1200" dur="11s" repeatCount="indefinite"/>
-  </rect>
-  <path d="M50 0H1200" stroke="#E56447" stroke-opacity=".22"/>
-  <rect x="1" y="1" width="1198" height="378" rx="11" fill="none" stroke="#B9A9A0" stroke-opacity=".19"/>
+<g clip-path="url(#clip)">
+<rect width="1200" height="450" fill="url(#bg)"/>
+<rect width="1200" height="450" fill="url(#grid)"/>
+<circle cx="984" cy="212" r="260" fill="url(#halo)"/>
+<circle cx="984" cy="215" r="105" fill="url(#core)"/>
+<path d="M45 48H1155M45 371H1155" stroke="#FFFFFF" stroke-opacity=".14"/>
+<rect x="66" y="63" width="32" height="32" rx="5" fill="#E2FA84"/>
+<text x="73" y="85" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="900" fill="#10131A">E.</text>
+<text x="114" y="77" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="700" letter-spacing="2.5" fill="#EBECF2">EFE OZAN AKAY</text>
+<text x="114" y="94" font-family="monospace" font-size="10" letter-spacing="1.35" fill="#9795AE">SOFTWARE × CREATIVE TECHNOLOGY</text>
+<text x="67" y="189" font-family="Arial,Helvetica,sans-serif" font-size="85" font-weight="800" letter-spacing="-5" fill="#F8F7F1">IDEAS INTO</text>
+<text x="66" y="275" font-family="Arial,Helvetica,sans-serif" font-size="82" font-weight="800" letter-spacing="-5" fill="#E2FA84">EXPERIENCES.</text>
+<text x="70" y="318" font-family="Arial,Helvetica,sans-serif" font-size="20" fill="#C2C3D0">Software. Sound. Film. Systems.</text>
+<path d="M70 341H134" stroke="#E2FA84" stroke-width="3"/>
+<text x="148" y="345" font-family="monospace" font-size="12" fill="#9297AD" letter-spacing=".7">BUILD / EXPERIMENT / SHIP</text>
+<circle cx="984" cy="215" r="142" fill="none" stroke="#DFE4FF" stroke-opacity=".14" stroke-dasharray="3 9"/>
+<circle cx="984" cy="215" r="170" fill="none" stroke="#A99ECA" stroke-opacity=".16"/>
+<ellipse cx="984" cy="215" rx="47.0" ry="116.0" transform="rotate(57 984 215)" fill="none" stroke="#DFFF78" stroke-width="1.9" opacity="0.12"/>
+<ellipse cx="984" cy="215" rx="52.3" ry="113.4" transform="rotate(54 984 215)" fill="none" stroke="#69DEF1" stroke-width="1.1" opacity="0.14"/>
+<ellipse cx="984" cy="215" rx="57.6" ry="110.8" transform="rotate(51 984 215)" fill="none" stroke="#B39AFF" stroke-width="1.1" opacity="0.17"/>
+<ellipse cx="984" cy="215" rx="62.9" ry="108.2" transform="rotate(48 984 215)" fill="none" stroke="#69DEF1" stroke-width="1.1" opacity="0.2"/>
+<ellipse cx="984" cy="215" rx="68.2" ry="105.6" transform="rotate(45 984 215)" fill="none" stroke="#DFFF78" stroke-width="1.9" opacity="0.22"/>
+<ellipse cx="984" cy="215" rx="73.5" ry="103.0" transform="rotate(42 984 215)" fill="none" stroke="#69DEF1" stroke-width="1.1" opacity="0.24"/>
+<ellipse cx="984" cy="215" rx="78.8" ry="100.4" transform="rotate(39 984 215)" fill="none" stroke="#B39AFF" stroke-width="1.1" opacity="0.27"/>
+<ellipse cx="984" cy="215" rx="84.1" ry="97.8" transform="rotate(36 984 215)" fill="none" stroke="#69DEF1" stroke-width="1.1" opacity="0.3"/>
+<ellipse cx="984" cy="215" rx="89.4" ry="95.2" transform="rotate(33 984 215)" fill="none" stroke="#DFFF78" stroke-width="1.9" opacity="0.32"/>
+<ellipse cx="984" cy="215" rx="94.7" ry="92.6" transform="rotate(30 984 215)" fill="none" stroke="#69DEF1" stroke-width="1.1" opacity="0.34"/>
+<ellipse cx="984" cy="215" rx="100.0" ry="90.0" transform="rotate(27 984 215)" fill="none" stroke="#B39AFF" stroke-width="1.1" opacity="0.37"/>
+<ellipse cx="984" cy="215" rx="105.3" ry="87.4" transform="rotate(24 984 215)" fill="none" stroke="#69DEF1" stroke-width="1.1" opacity="0.4"/>
+<ellipse cx="984" cy="215" rx="110.6" ry="84.8" transform="rotate(21 984 215)" fill="none" stroke="#DFFF78" stroke-width="1.9" opacity="0.42"/>
+<ellipse cx="984" cy="215" rx="115.9" ry="82.2" transform="rotate(18 984 215)" fill="none" stroke="#69DEF1" stroke-width="1.1" opacity="0.45"/>
+<ellipse cx="984" cy="215" rx="121.2" ry="79.6" transform="rotate(15 984 215)" fill="none" stroke="#B39AFF" stroke-width="1.1" opacity="0.47"/>
+<ellipse cx="984" cy="215" rx="126.5" ry="77.0" transform="rotate(12 984 215)" fill="none" stroke="#69DEF1" stroke-width="1.1" opacity="0.49"/>
+<ellipse cx="984" cy="215" rx="131.8" ry="74.4" transform="rotate(9 984 215)" fill="none" stroke="#DFFF78" stroke-width="1.9" opacity="0.52"/>
+<path d="M815 215H864M1102 215H1153M984 43V94M984 336V381" stroke="#E2FA84" stroke-opacity=".5" stroke-width="1"/>
+<circle cx="984" cy="215" r="3" fill="#F0FBE8"/>
+<text x="802" y="89" font-family="monospace" font-size="11" fill="#B7B1CD" letter-spacing="1.7">01 / EXPERIMENT</text>
+<text x="1037" y="352" font-family="monospace" font-size="11" fill="#B7B1CD" letter-spacing="1.5">02 / MAKE</text>
+<path d="M45 371H1155" stroke="#DDE0F1" stroke-opacity=".16"/>
+<text x="68" y="411" font-family="monospace" font-size="13" letter-spacing="1.35" fill="#B7B9C7">PRODUCT ENGINEERING</text>
+<circle cx="301" cy="407" r="2.7" fill="#E2FA84"/>
+<text x="328" y="411" font-family="monospace" font-size="13" letter-spacing="1.35" fill="#B7B9C7">CINEMATIC PRODUCTION</text>
+<circle cx="605" cy="407" r="2.7" fill="#E2FA84"/>
+<text x="632" y="411" font-family="monospace" font-size="13" letter-spacing="1.35" fill="#B7B9C7">AI-NATIVE WORKFLOWS</text>
+<text x="1085" y="411" font-family="monospace" font-size="12" fill="#85889C">TR / 26</text>
+<rect x=".7" y=".7" width="1198.6" height="448.6" rx="16" fill="none" stroke="#FFFFFF" stroke-opacity=".14"/>
 </g>
 </svg>
